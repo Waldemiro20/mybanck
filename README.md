@@ -99,7 +99,7 @@ npm run web       # Navegador web
 | Destaque | `#00B894` (Verde) |
 | Fundo | `#0F0F1A` (Escuro) |
 
-## Autor
+## Autores
 
 - **Carlos Waldemiro** - **Pedro Lima** - **Devide Lucas** - **Matheus Fernandes**
 
