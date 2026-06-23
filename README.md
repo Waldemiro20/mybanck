@@ -101,13 +101,7 @@ npm run web       # Navegador web
 
 ## Autor
 
-**Carlos Waldemiro**
-
-**Pedro Lima**
-
-**Devide Lucas**
-
-**Matheus Fernandes**
+- **Carlos Waldemiro** - **Pedro Lima** - **Devide Lucas** - **Matheus Fernandes**
 
 
 Disciplina: Programação para Dispositivos Móveis
