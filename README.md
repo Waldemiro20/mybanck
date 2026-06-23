@@ -102,8 +102,11 @@ npm run web       # Navegador web
 ## Autor
 
 **Carlos Waldemiro**
+
 **Pedro Lima**
+
 **Devide Lucas**
+
 **Matheus Fernandes**
 
 
